@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Nicholas Gallagher, Harry Roberts, Creators of initializr and modernizr
 
 # TECHNOLOGY COLOPHON
 
