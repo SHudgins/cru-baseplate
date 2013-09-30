@@ -3,7 +3,8 @@
 \*------------------------------------*/
 /*!*
  *
- * This is the base stylesheet. Use only for imports
+ * The main file for our starting point. THis files is where all the imports
+ * happen. No CSS or SCSS please. 
  *
  */
 
@@ -22,9 +23,6 @@
  */
 
 
-
-
-
 /*------------------------------------*\
     $IMPORTS
 \*------------------------------------*/
@@ -32,16 +30,18 @@
  * Inuit framework
  */
 
-@import "inuit.css/inuit";
+
+@import 'inuit.css/inuit';
+
+
 
 
 /**
  * Project specific files
  */
+@import 'project/reset';
+@import 'project/variables';
+@import 'project/project';
 
-
-@import "project/reset";
-@import "project/variables";
-@import "project/project";
 
 
