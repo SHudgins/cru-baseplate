@@ -1,4 +1,4 @@
 cru-baseplate
 =============
 
-Default starting point for font-end builds
+Cru Baseplate is the default starting point for front-end builds
