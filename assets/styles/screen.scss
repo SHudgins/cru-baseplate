@@ -1,0 +1,47 @@
+/*------------------------------------*\
+    SCREEN.SCSS
+\*------------------------------------*/
+/*!*
+ *
+ * The main file for our starting point. THis files is where all the imports
+ * happen. No CSS or SCSS please. 
+ *
+ */
+
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * CONTENTS............You’re reading it!
+ * IMPORTS.............Begin importing the sections below
+ *
+ * INUIT...............The inuit.css framework as a barebones OO foundation
+ *
+ * RESET...............Set some defaults
+ * VARIABLES...........Declare project specific variables
+ * ETC.................More project files following
+ */
+
+
+/*------------------------------------*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * The inuit framework 
+ */
+
+@import 'inuit.css/inuit';
+@import 'inuit.css/inuit';
+
+
+
+
+/**
+ * Project specific files
+ */
+@import 'project/reset';
+@import 'project/variables';
+@import 'project/project';
+
+
+
