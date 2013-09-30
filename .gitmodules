@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 [submodule "dev/styles/inuit.css"]
 	path = dev/styles/inuit.css
-=======
-[submodule "assets/styles/inuit/inuit.css"]
-	path = assets/styles/inuit/inuit.css
-	url = https://github.com/csswizardry/inuit.css.git
-[submodule "assets/styles/inuit.css"]
-	path = assets/styles/inuit.css
->>>>>>> edd5d4dfc23109b1cda5f1b3a795f0c2c915f8de
 	url = https://github.com/csswizardry/inuit.css.git
